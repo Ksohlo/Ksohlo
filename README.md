@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm solomon</h1>
-<h3 align="center">A passionate Fullstack developer from Nigria ![image](https://github.com/user-attachments/assets/8debf89a-57cd-4569-8e2d-f935d572b6f1)
-![Uploading image.png…]()
-</h3>
+<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksohlo&label=Profile%20views&color=0e75b6&style=flat" alt="ksohlo" /> </p>
 
