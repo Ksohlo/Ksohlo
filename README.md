@@ -1,23 +1,179 @@
-<h1 align="center">Hi 👋, I'm solomon</h1>
-<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
+# Hi, I'm Solomon Alabi 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksohlo&label=Profile%20views&color=0e75b6&style=flat" alt="ksohlo" /> </p>
+### Full-Stack Software Engineer • Mobile Engineer • Founder @ EleVot
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksohlo" alt="ksohlo" /></a> </p>
+I’m a **Software Engineer from Nigeria 🇳🇬** building production-ready mobile and web applications, backend systems, and digital products.
 
-<p align="left"> <a href="https://twitter.com/alabiso71513241" target="blank"><img src="https://img.shields.io/twitter/follow/alabiso71513241?logo=twitter&style=for-the-badge" alt="alabiso71513241" /></a> </p>
+My strongest expertise is in **React Native & Expo**, backed by full-stack experience with **React, Next.js, Node.js, Express, PostgreSQL, Prisma, Redis, Docker, and TypeScript**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alabiso71513241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alabiso71513241" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/k-sohlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-sohlo" height="30" width="40" /></a>
+I enjoy taking products beyond the UI — from architecture and API design to mobile development, deployment, payments, real-time systems, and production releases.
+
+---
+
+## 👨‍💻 About Me
+
+- 📱 Building cross-platform mobile applications with **React Native + Expo**
+- 🌐 Building modern web applications with **React & Next.js**
+- ⚙️ Developing scalable backend APIs with **Node.js, Express & TypeScript**
+- 🗄️ Working with **PostgreSQL, Prisma, Redis & MongoDB**
+- 🐳 Building and deploying containerized services with **Docker**
+- 🔄 Building real-time systems with **Socket.IO**
+- 💳 Experience integrating payment systems including **Paystack, Flutterwave & Payaza**
+- 🗺️ Experience with **Google Maps, Places, location & logistics systems**
+- 📦 Experience shipping applications to the **Apple App Store & Google Play**
+- 🚀 Founder of **EleVot**
+- 💼 Open to **Software Engineering, Mobile Engineering & Full-Stack opportunities**
+
+---
+
+## 🚀 What I Build
+
+I primarily work across three areas:
+
+**Mobile Engineering**
+
+React Native • Expo • Expo Router • TanStack Query • Zustand • Secure Storage • Maps • Push Notifications • Real-time Features • Native Integrations
+
+**Frontend Engineering**
+
+React • Next.js • TypeScript • Tailwind CSS • TanStack Router • Responsive UI • API Integration • Admin Dashboards
+
+**Backend Engineering**
+
+Node.js • Express.js • TypeScript • PostgreSQL • Prisma • Redis • BullMQ • Socket.IO • REST APIs • Authentication • Docker
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Mobile & Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksohlo&show_icons=true&locale=en&layout=compact" alt="ksohlo" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksohlo&show_icons=true&locale=en" alt="ksohlo" /></p>
+**React Native • Expo • Expo Router • TanStack Query • Zustand**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksohlo&" alt="ksohlo" /></p>
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma" />
+</p>
+
+### Infrastructure & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+</p>
+
+---
+
+## 📱 Selected Work
+
+### AFSS Kaduna Alumni
+
+A mobile social platform built for alumni to connect, interact, and stay engaged with their community.
+
+**React Native • Expo • TypeScript • REST APIs • Mobile Deployment**
+
+📲 Published on the Apple App Store.
+
+---
+
+### EduSafe
+
+A child transportation management platform connecting **parents, drivers, and administrators**.
+
+The platform includes trip management, child pickup/drop-off workflows, driver operations, payments, notifications, subscriptions, and real-time updates.
+
+**React Native • Node.js • Express • PostgreSQL • Prisma • Redis • BullMQ • Socket.IO • Docker**
+
+---
+
+### Logistics & Location Platforms
+
+Built mobile systems involving:
+
+- Real-time location workflows
+- Google Maps
+- Google Places
+- Route visualization
+- Driver/rider workflows
+- Distance calculations
+- Dispatch operations
+- Location-based availability
+
+**React Native • Expo • Google Maps Platform • Node.js**
+
+---
+
+### E-commerce Platforms
+
+Built and architected commerce systems including product storefronts, checkout flows, payments, delivery calculations, order management, and CMS/admin portals.
+
+**Next.js • TypeScript • Node.js • PostgreSQL • Payment APIs**
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+Mobile Architecture
+Full-Stack Product Engineering
+Distributed & Real-Time Systems
+Location-Based Applications
+Backend Architecture
+Developer Experience
+Product Engineering
+System Design
+```
+
+I’m particularly interested in building software that solves practical problems across **mobility, logistics, commerce, education, productivity, and business operations**.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksohlo&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksohlo&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksohlo" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on ambitious products and engineering teams working on meaningful problems.
+
+<p>
+<a href="https://linkedin.com/in/k-sohlo">
+  <img src="https://img.shields.io/badge/LinkedIn-Solomon%20Alabi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://solomonalabiportfolio.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building products. Solving problems. Shipping software.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ksohlo&label=Profile%20Views&style=flat" />
+</p>
